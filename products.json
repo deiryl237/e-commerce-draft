@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Saveur mangue à l'ananas",
+    "description": "Plongez dans une explosion tropicale avec notre délicieuse saveur mangue à l'ananas. Ce mélange exquis marie la douceur veloutée de la mangue mûre à la fraîcheur juteuse de l'ananas, créant une symphonie de saveurs ensoleillées. Chaque bouchée vous transporte vers des plages exotiques, éveillant vos sens avec une fraîcheur fruitée irrésistible. Parfait pour les amateurs de fruits tropicaux, ce délice est une invitation à l'évasion.",
+    "price": "1500",
+    "image": "../img/mangue.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Saveur Ananas",
+    "description": "Laissez-vous séduire par la saveur pure et vivifiante de notre produit à l'ananas. Cette création met en avant l'essence même de ce fruit tropical, avec une saveur douce, acidulée et rafraîchissante. Idéale pour une pause gourmande ou un moment de détente, elle ravira les papilles des amoureux des fruits tropicaux.",
+    "price": "1500",
+    "image": "../img/pineapple.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Saveur gingembre à l'ananas",
+    "description": "Découvrez l'alliance parfaite entre la chaleur épicée du gingembre et la fraîcheur sucrée de l'ananas. Ce mélange unique offre une expérience gustative intense et revigorante. La saveur piquante du gingembre, subtilement équilibrée par la douceur de l'ananas, éveille vos papilles et vous transporte dans un monde de sensations exotiques.",
+    "price": "1500",
+    "image": "../img/gin.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Saveur gingembre-miel-citron",
+    "description": "Offrez à vos sens une aventure gustative inédite avec notre saveur gingembre-miel-citron. Ce trio harmonieux marie la force épicée du gingembre, la douceur enveloppante du miel et l'acidité vivifiante du citron. Ensemble, ils créent une combinaison équilibrée, idéale pour réchauffer les cœurs et revitaliser les esprits.",
+    "price": "1500",
+    "image": "../img/gici.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Saveur gingembre-baobab",
+    "description": "Explorez les saveurs authentiques de l'Afrique avec notre saveur gingembre-baobab. Le goût robuste et épicé du gingembre s'accorde parfaitement avec les notes acidulées et légèrement sucrées du baobab, offrant une expérience gustative riche et nourrissante. Ce mélange est un hommage aux trésors naturels et aux traditions culinaires du continent..",
+    "price": "1500",
+    "image": "../img/gin.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Saveur mangue-citron",
+    "description": "Apportez une touche de fraîcheur à votre journée avec notre saveur mangue-citron. Ce mariage parfait entre la douceur tropicale de la mangue et l'acidité rafraîchissante du citron offre un équilibre idéal, rehaussant chaque bouchée d'une vivacité fruitée. C'est un véritable rayon de soleil dans chaque portion.",
+    "price": "1500",
+    "image": "../img/pineapple.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Saveur mangue-miel",
+    "description": "Savourez la douceur naturelle avec notre saveur mangue-miel. Cette combinaison délicate associe la richesse sucrée de la mangue à la tendresse dorée du miel, créant une expérience gustative onctueuse et réconfortante. Une parfaite harmonie qui ravira les amateurs de douceurs fruitées.",
+    "price": "1500",
+    "image": "../img/gici.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Saveur baobab-miel",
+    "description": "Plongez dans une expérience gustative nourrissante avec notre saveur baobab-miel. Le goût légèrement acidulé du baobab, riche en nutriments, s'allie parfaitement à la douceur subtile du miel. Ce mélange bien équilibré est non seulement délicieux mais également bénéfique, inspiré des traditions africaines.",
+    "price": "1500",
+    "image": "../img/gici.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Saveur baobab-gingembre",
+    "description": "Découvrez une alliance audacieuse avec notre saveur baobab-gingembre. Ce mélange unique réunit la fraîcheur acidulée du baobab et le piquant du gingembre, offrant une explosion de saveurs vives et revigorantes. Idéal pour ceux qui recherchent une expérience gustative pleine de caractère et de vitalité.",
+    "price": "1500",
+    "image": "../img/pineapple.jpg"
+  },
+  {
+    "id": "6d77536d-1bf2-408b-ac29-88ec71152707",
+    "name": "citronus alvilidus",
+    "price": "1000",
+    "description": "jkbjbconicpdncpdocnds",
+    "image": "../img/pepe.jpg"
+  }
+]

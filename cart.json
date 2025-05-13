@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Saveur mangue à l'ananas",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam aspernatur eius totam nam accusamus minus corporis consequatur asperiores incidunt esse? Dolores, nulla aliquid? Maiores sapiente eveniet, unde odio eius, tenetur labore consequuntur dignissimos repellat quae assumenda natus illum incidunt? Numquam exercitationem, ullam dolor accusantium consectetur ad distinctio accusamus non, nisi laudantium suscipit reprehenderit. Enim eum laborum voluptatibus quia. Dicta quisquam, aspernatur qui iure voluptate itaque porro unde, ex modi reprehenderit maiores atque at architecto quae nulla eaque dolorum explicabo? Vel sunt exercitationem, voluptatum provident perspiciatis aliquid ex! Perferendis explicabo voluptate natus, alias in eveniet soluta, veritatis hic vel et libero!",
+    "price": "1500fcfa",
+    "image": "img/mangue.jpg",
+    "quantity": 11
+  }
+]
